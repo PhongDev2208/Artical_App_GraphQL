@@ -25,6 +25,7 @@
     "graphql": "^16.9.0",
     "md5": "^2.3.0",
     "mongoose": "^8.4.4",
+    "pre-commit": "^1.2.2",
     "rimraf": "^6.0.1"
   },
   "devDependencies": {
